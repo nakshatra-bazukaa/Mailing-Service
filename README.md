@@ -11,4 +11,5 @@ Its intention is to send mail to the students with corrosponding roll number eff
 3. Simply open mail.py file.
 4. In line 1 add all the roll numbers where you want to send mail.
 5. In line 2 type the message for the mail.
-6. Run mail.py file and mails will be delivered.
+6. In line 14 and 15 specify sender mail id and its password respectively.
+7. Run mail.py file and mails will be delivered.
